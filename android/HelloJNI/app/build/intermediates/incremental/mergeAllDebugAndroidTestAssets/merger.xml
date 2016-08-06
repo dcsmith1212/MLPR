@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/derek/Android/Projects/HelloJNI/app/src/androidTest/assets"/><source path="/home/derek/Android/Projects/HelloJNI/app/build/generated/assets/shaders/androidTest/all/debug"/></dataSet><dataSet config="all"><source path="/home/derek/Android/Projects/HelloJNI/app/src/androidTestAll/assets"/></dataSet></merger>
